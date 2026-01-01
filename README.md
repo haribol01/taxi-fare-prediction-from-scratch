@@ -42,8 +42,7 @@ Normalization parameters are reused during testing and prediction.
 
 ## 🧪 Training & Testing
 - **Training:** ~30,000 records  
-- **Testing:** 636 unseen records  
-- Optimized using **Mean Squared Error**
+- **Testing:** 636 unseen records
 
 ---
 
